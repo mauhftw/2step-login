@@ -2,7 +2,7 @@
 
 ## Requisitos
 
-- Se necesita previamente tener instalado en su teléfono celular "Google Authenticator" y algún tipo de lector de código QR
+Se necesita previamente tener instalado en su teléfono celular "Google Authenticator" y algún tipo de lector de código QR
 
 ## Instrucciones
 
