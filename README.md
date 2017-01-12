@@ -1,8 +1,12 @@
 # Login con autenticacion de factor 2
 
-## Instrucciones
+## Requisitos
 
 - Se necesita previamente tener instalado en su teléfono celular "Google Authenticator" y algún tipo de lector de código QR
+
+## Instrucciones
+
+
 
 1. Instalar aplicacion
 2. Registrarse como usuario (El correo electrónico ingresado debe ser válido)
